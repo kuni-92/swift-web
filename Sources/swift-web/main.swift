@@ -1,6 +1,4 @@
 import Foundation
-import FoundationNetworking
-
 
 func urlRequest(url: String) {
     print("Start server!!!")
